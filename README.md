@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhii_koradia" target="blank"><img src="https://img.shields.io/twitter/follow/abhii_koradia?logo=twitter&style=for-the-badge" alt="abhii_koradia" /></a> </p>
 
-- 👨‍💻 You can also check out my website [www.abhikoradia.ga](http://www.abhikoradia.ga)
-
 - 📫 How to reach me **Koradiaabhi@gmail.com**
 
 - ⚡ Fun fact **Change my mind!!**
