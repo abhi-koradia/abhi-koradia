@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhi Koradia<br><h3><a href="https://abhi-koradia.github.io/abhikoradia.com/">www.abhikoradia.com<h3></h1>
+<h1 align="center">Hi 👋, I'm Abhi Koradia<br><a href="https://abhi-koradia.github.io/abhikoradia.com/">www.abhikoradia.com</h1>
 <h2 align="center"></h2>
 <h3 align="center">A young passionate developer from India</h3>
 
