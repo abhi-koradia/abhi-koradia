@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Abhi Koradia
   <br>
-  <a href="https://abhi-koradia.github.io/abhikoradia.com/" style="font-size: 16;">www.abhikoradia.com</a>
+  <a href="https://abhi-koradia.github.io/abhikoradia.com/" style="font-size: 8;">www.abhikoradia.com</a>
 </h1>
 <h3 align="center">A young passionate developer from India</h3>
 
