@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Abhi Koradia  
  
-  <p font-size: "8px">
+  <p font-size: "8">
     <a href="https://abhi-koradia.github.io/abhikoradia.com/" style="font-size: 8;">www.abhikoradia.com</a>
   </p>
 </h1>
