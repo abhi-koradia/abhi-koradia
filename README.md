@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhi Koradia</h1>
-<h2 align="center"><a href="https://abhi-koradia.github.io/abhikoradia.com/">www.abhikoradia.com</h2>
+<h1 align="center">Hi 👋, I'm Abhi Koradia<br><a href="https://abhi-koradia.github.io/abhikoradia.com/">www.abhikoradia.com</h1>
+<h2 align="center"></h2>
 <h3 align="center">A young passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-koradia&label=Profile%20views&color=0e75b6&style=plastic" alt="abhi-koradia" /> </p>
