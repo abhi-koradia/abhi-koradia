@@ -3,7 +3,6 @@
   <br>
   <a href="https://abhi-koradia.github.io/abhikoradia.com/" style="font-size: 16px;">www.abhikoradia.com</a>
 </h1>
-<h2 align="center"></h2>
 <h3 align="center">A young passionate developer from India</h3>
 
 <p align="left"> 
